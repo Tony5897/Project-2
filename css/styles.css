@@ -1,9 +1,16 @@
 body  {
-  background-color: beige;
-}
+  background-color: white;
 
+
+}
 .banner  { 
   text-align: center;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  font-variant: small-caps;
+  font-stretch: extra-expanded;
+  background-image: ;
 }
-
+span.under  {
+  font-style: italic;
+}
