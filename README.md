@@ -8,10 +8,7 @@
  * ***_jQuery_***
 
  # Description
- * _Where_
- * _What_
- * _Why_
- * _How_
+ * This web application 
 
 
  *
