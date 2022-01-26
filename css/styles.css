@@ -1,33 +1,44 @@
 body  {
   background-color: white;
-  margin-top: -50px;
+}
+.head {
+  text-align: center;
+  font-size: 75px;
+  font-stretch: ultra-expanded;
+  font-style: italic;
+  margin: auto;  
+}
+img.main {
+  float: left;
+  margin: auto;
+  width: 50%;
+  height: auto;
+  border-style: groove;
+  border: 10%;
 }
 .banner  { 
   text-align: center;
-  font-size: 40px;
   font-family: 'Times New Roman', Times, serif;
   font-variant: small-caps;
   font-stretch: extra-expanded;
-  margin-bottom: 50px;
 }
 span.under  {
   font-style: italic;
   font-optical-sizing: 40px;
 }
-.central {
-  text-align: center;
+.column {
+  text-align: center;    
   font-family: Georgia, 'Times New Roman', Times, serif;
   columns: 1;
-  margin-left: 300px;
-  margin-right: 300px;
+  column-gap: 5%;
+  width: 50%;
+  height: auto;
   font-size: 22px;
+  float: right;
+  margin: auto;
 }
-.areas img  {
-  align-content: center;
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-#show-phy1 {
+
+#show-phy {
   display: none;
   font-size: 66px;
 }
@@ -35,5 +46,5 @@ span.under  {
   display: none;
 }
 #show-net {
-  display: none;
+   display: none;
 }
