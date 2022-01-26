@@ -37,14 +37,6 @@ span.under  {
   float: right;
   margin: auto;
 }
-
-#show-phy {
+#showlanguages {
   display: none;
-  font-size: 66px;
-}
-#show-language {
-  display: none;
-}
-#show-net {
-   display: none;
 }
