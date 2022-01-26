@@ -27,9 +27,13 @@ span.under  {
   margin-top: 25px;
   margin-bottom: 25px;
 }
-.phy1 {
+#show-phy1 {
+  display: none;
   font-size: 66px;
 }
-#language {
+#show-language {
+  display: none;
+}
+#show-net {
   display: none;
 }
